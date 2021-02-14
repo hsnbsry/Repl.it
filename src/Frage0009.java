@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Beispiel0009 {
+public class Frage0009 {
     //Anagram, bir kelimenin harflerinden başka bir kelime oluşturmaya denir.
 
     //Kullanıcıdan alınacak  iki kelimenin Anagram durumunu belirleyen  Java kodunu yazınız.

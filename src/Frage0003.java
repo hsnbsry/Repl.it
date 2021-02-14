@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Beispiel0003 {
+public class Frage0003 {
 
     //Methoda iki sayı girelim ve  bize bir array dönsün.
     //Array elemanları 1.sayının 2. sayı kadar kendisi ile toplamından oluşsun.

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Beispiel0006 {
+public class Frage0006 {
 
     //Bir arrayi tersine çeviren  method yazınız.
 

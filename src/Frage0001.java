@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Beispiel0001 {
+public class Frage0001 {
 
     /*
      * Kredi kartı numarası alan ve yalnızca son dört karakteri görüntüleyen bir method yazın.

@@ -1,4 +1,4 @@
-public class Beispiel0015 {
+public class Frage0015_eksik {
     /*
 	 * Girilen kelimedeki alfabeye göre ard arda gelmeyen harfleri bulunuz.
 	 * (İngilizce alfabeye göre). Eğer herhangi atlanan bir harf yoksa "Sıralı Harfler" yazdıralım.

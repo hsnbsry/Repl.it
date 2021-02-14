@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Beispiel0013 {
+public class Frage0013_eksik {
     //Girilen metindeki tüm kelimelerin ilk harflerini büyük yapınız.(diğer harflere dokunmayın, büyükse büyük, küçükse küçük kalsın).
 	/*
 	 * Örnek

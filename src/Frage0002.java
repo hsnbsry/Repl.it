@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Beispiel0002 {
+public class Frage0002 {
 
 //String array dizisindeli 4 harfli kelimeleri return eden methodu yazınız.
     //isFourLetters(["Tomato", "Potato", "Pair"])

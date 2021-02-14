@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Beispiel0014 {
+public class Frage0014 {
     /*
 	 * İki farklı kelimeyi birleştirip, ilk harfini büyük kalan harfleri küçük yapan bir method yazınız.
 	 *

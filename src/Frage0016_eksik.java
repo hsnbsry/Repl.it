@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Beispiel0016 {
+public class Frage0016_eksik {
     /*
 	 * Kullanıcıdan alınan bir mailin doğru olup olmadığını kontrol eden bir program yazınız.
 

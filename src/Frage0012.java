@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Beispiel0012 {
+public class Frage0012 {
     private static final String[] tensNames = {"", " ten"," twenty"," thirty"," forty"," fifty"," sixty"," seventy"," eighty"," ninety"};
     private static final String[] numberNames = {""," one"," two"," three"," four"," five"," six"," seven"," eight"," nine"," ten"," eleven"," twelve"," thirteen"," fourteen"," fifteen"," sixteen"," seventeen"," eighteen"," nineteen"};
 

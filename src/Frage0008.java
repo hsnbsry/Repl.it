@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Beispiel0008 {
+public class Frage0008 {
     /*
 	 * Bir palindrom, madam veya racecar veya 10801 sayısı gibi ileriye doğru geriye doğru okuyan bir
 	 * kelime, sayı, kelime öbeği veya diğer karakter dizisidir.

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Beispiel0010 {
+public class Frage0010 {
 
     /*
      * Verilen array'deki en büyük ve en küçük sayı arasındaki farkı return eden bir method yazınız.

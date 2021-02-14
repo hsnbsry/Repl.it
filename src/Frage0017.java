@@ -1,4 +1,4 @@
-public class Beispiel0017 {
+public class Frage0017 {
     /*
 	 * String içindeki birden fazla geçen karakter sayısını bulan program yazınız.
 	 *  Mesela "Merhaba" kelimesinde sadece a harfi tekrar ettiği için bu String için

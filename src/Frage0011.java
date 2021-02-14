@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Beispiel0011 {
+public class Frage0011 {
     /*
 	 * Kullanıcının yazdığı metni, 'hacker'ların konuşma diline çevirip return eden
 	 *  bir method(method ismi hackerDili) yazınız.

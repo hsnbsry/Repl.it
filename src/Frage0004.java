@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Beispiel0004 {
+public class Frage0004 {
 
     //Bir sayı asal olduğunda true, aksi halde false çıktısı return eden bir Java Methodu yazınız.
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Beispiel0005 {
+public class Frage0005 {
 
     //Girilen Stringdeki  tüm sesli harfleri saymak için bir Java Methodu yazınız
 
